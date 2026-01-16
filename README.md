@@ -35,13 +35,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ySaantiii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ySaantiii&layout=compact&langs_count=7&theme=dracula&border_radius=10"/>
-</div>
-
 ---
 
 ### 📱 Conecte-se Comigo
