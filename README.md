@@ -1,7 +1,7 @@
 # 👋 Seja Bem-Vindo! Eu sou o ySaantiii
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/886761564181512222/933107699611234375/Sem_Titulo-1-removebg-preview.png" width="180px" style="border-radius: 50%"/>
+  <img src="https://i.imgur.com/lnEBtmG.jpeg" width="180px" style="border-radius: 50%"/>
   
   ### 🚀 Full Stack Developer & Founder of Namikaze Studio
   
